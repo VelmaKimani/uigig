@@ -90,7 +90,7 @@ class PageOne extends StatelessWidget {
             ],
           ),
         ),
-        TextButton.icon(
+        /* TextButton.icon(
           style: TextButton.styleFrom(
             textStyle: const TextStyle(color: Colors.green),
             backgroundColor: Colors.black,
@@ -108,7 +108,7 @@ class PageOne extends StatelessWidget {
           label: Text(
             Constants.firstPageAppBar,
           ),
-        ),
+        ), */
       ]),
     );
   }
